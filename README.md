@@ -127,14 +127,8 @@ Resultado esperado:
 
 ---
 
-🛠️ Personalización
+ Personalización
 
 * Cambiar precio por persona en LLM 2
 * Añadir nuevas categorías en SWITCH
 * Modificar respuestas en SET
-
----
-
-## 📄 Licencia
-
-Uso educativo

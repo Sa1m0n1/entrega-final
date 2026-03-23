@@ -1,0 +1,5 @@
+Todas las credenciales fueron obtenidas mediante GOOGLE CLOUD CONSOLE, no se preciso ningun permiso especial ni requirio de analisis para que se me brinden
+- Las credenciales son de los servicios de google utilizados en el workflow
+- Gmail
+- Google sheets
+- Google drive (para tener acceso a los documentos de google sheets)
